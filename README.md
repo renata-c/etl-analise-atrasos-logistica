@@ -15,3 +15,9 @@ Notebook de estudo demonstrando um fluxo completo de **Extract, Transform, Load 
 - **GCS Bucket**: Arquivo JSON com dados de feriados brasileiros
 - **BigQuery**: Tabela `olist_dataset.orders` com dados de pedidos (origem: [Dataset Olist no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
 - **Resultado**: Nova tabela `pedido_atrasos` com análise de atrasos nas entregas
+
+---
+
+## 📚 Sobre
+
+Este foi um estudo realizado durante o curso **Fundamentos de nuvem: construindo a base** da plataforma Alura.
