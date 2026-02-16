@@ -2,7 +2,7 @@
 
 Notebook de estudo demonstrando um fluxo completo de **Extract, Transform, Load (ETL)** integrado com Google Cloud Platform.
 
-## 🚀 Início Rápido
+## Início Rápido
 
 1. Abra no [Google Colab](https://colab.research.google.com/github/seu-usuario/seu-repo/blob/main/etl-analise-atrasos-logistica.ipynb)
 2. Configure seus **Colab Secrets** (ícone 🔑):
@@ -18,6 +18,6 @@ Notebook de estudo demonstrando um fluxo completo de **Extract, Transform, Load 
 
 ---
 
-## 📚 Sobre
+## Sobre
 
 Este foi um estudo realizado durante o curso **Fundamentos de nuvem: construindo a base** da plataforma Alura.
